@@ -1,0 +1,12 @@
+Package: com.yot.debloader
+Name: DebLoader
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Download tweak's debian files by simply typing its bundle ID.
+Maintainer: Yot
+Author: Yot
+Section: Tools
+Depends: apt
+Depiction: https://repo.yot-dev.com/depictions/?p=com.yot.debloader
+SileoDepiction: https://repo.yot-dev.com/depictions/com.yot.debloader/generate.json
+Icon: https://repo.yot-dev.com/depictions/com.yot.debloader/logo.png

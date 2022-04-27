@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>260AA43D-320A-46B5-A7A4-782BD25AD9DC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>260AA43D-320A-46B5-A7A4-782BD25AD9DC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DebLoader project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DebLoader</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project DebLoader with scheme DebLoader</string>
+			<key>timeStartedRecording</key>
+			<real>672702895.40853405</real>
+			<key>timeStoppedRecording</key>
+			<real>672702901.31537998</real>
+			<key>title</key>
+			<string>Archiving project DebLoader with scheme DebLoader</string>
+			<key>uniqueIdentifier</key>
+			<string>260AA43D-320A-46B5-A7A4-782BD25AD9DC</string>
+		</dict>
+		<key>F376EA5B-3A08-48EF-AC31-E9924D7F97D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F376EA5B-3A08-48EF-AC31-E9924D7F97D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DebLoader project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DebLoader</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Archiving project DebLoader with scheme DebLoader</string>
+			<key>timeStartedRecording</key>
+			<real>672702474.10799205</real>
+			<key>timeStoppedRecording</key>
+			<real>672702479.05404496</real>
+			<key>title</key>
+			<string>Archiving project DebLoader with scheme DebLoader</string>
+			<key>uniqueIdentifier</key>
+			<string>F376EA5B-3A08-48EF-AC31-E9924D7F97D2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

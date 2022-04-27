@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "0a343f166e53c5fe167373cf4b4477e7"
+build_time: [1651010095, 878468000]
+inputs:
+  "/Users/yot/Code/Swift/DebLoader/DebLoader/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/yot/Code/Swift/DebLoader/DebLoader/SceneDelegate.swift": [9223372036, 854775807]
+  "/Users/yot/Code/Swift/DebLoader/DebLoader/ContentView.swift": [9223372036, 854775807]
